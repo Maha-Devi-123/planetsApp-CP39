@@ -1,0 +1,7 @@
+.planet-slider-con {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  min-height: 100vh;
+  margin: 0px;
+  padding: 25px;
+}

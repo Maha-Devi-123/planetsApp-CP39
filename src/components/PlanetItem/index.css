@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.slider-container {
+  padding: 40px;
+  text-align: center;
+}
+.planets-head {
+  font-size: 30px;
+  color: #05acff;
+  text-align: center;
+}
+.image-edit {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+}
+.name {
+  font-size: 25px;
+  color: #f8fafc;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.discription {
+  font-size: 18px;
+  color: #f8fafc;
+  width: 80%;
+  margin: auto;
+}
+
+@media screen and (max-width: 756px) {
+  .slider-container {
+    padding: 20px;
+  }
+  .planets-head {
+    font-size: 20px;
+  }
+  .name {
+    font-size: 18px;
+  }
+  .discription {
+    font-size: 14px;
+  }
+}
